@@ -1,1 +1,1 @@
-1. Interactive calcultor using HTML, CSS ,JavaScript
+1. Basic calculator created using HTML, CSS ,JavaScript
